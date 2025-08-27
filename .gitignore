@@ -1,1 +1,18 @@
-venv
+# Virtual environment
+venv/
+.env
+
+# SQLite database file
+dwallet.db
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# IDE files (if applicable)
+.idea/
+.vscode/
+
+# Other common ignores
+*.log
+*.bak
