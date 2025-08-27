@@ -1,0 +1,1000 @@
+  310  git add index.html 
+  311  git commit -m "Added MobileMoneyEstimator link to index.html"
+  312  git push -u origin main
+  313  code .
+  314  exit
+  315  cd moringa/Code-Challenge-1/
+  316  ls
+  317  code .
+  318  git status
+  319  git add mobileMoneyEstimator/fee.js 
+  320  git commit -m "ADDED function calculateFee(i)"
+  321  git push -u origin main
+  322  git add README.md
+  323  git commit -m "Added Directory & File Structure"
+  324  git push -u origin main
+  325  git add README.md
+  326  git commit -m "Formating of file"
+  327  git push -u origin main
+  328  git add README.md
+  329  git commit -m "Formating adding icon"
+  330  git push -u origin main
+  331  git add README.md
+  332  git commit -m "Formating of directory"
+  333  git push -u origin main
+  334  git add README.md
+  335  git commit -m "Formating of directory new line"
+  336  git push -u origin main
+  337  git add README.md
+  338  git commit -m "Formating of directory new line"
+  339  git push -u origin main
+  340  git add README.md
+  341  git commit -m "Formating of directory indenting"
+  342  git push -u origin main
+  343  git add README.md
+  344  git commit -m "Adding Code Block"
+  345  git push -u origin main
+  346  git add README.md
+  347  git commit -m "Formatting add space"
+  348  git push -u origin main
+  349  git add README.md
+  350  git commit -m "Formatting add space line 10"
+  351  git push -u origin main
+  352  git add README.md
+  353  git commit -m "Formatting add space line 11"
+  354  git push -u origin main
+  355  git add README.md
+  356  git commit -m "Formatting add space line 12 & 13"
+  357  git push -u origin main
+  358  git add README.md
+  359  git commit -m "Formatting line 13-22"
+  360  git push -u origin main
+  361  git commit -m "Formatting line 10-22"
+  362  git add README.md
+  363  git commit -m "Formatting line 10-22"
+  364  git push -u origin main
+  365  git add README.md
+  366  git commit -m "Added Author, Added Why section"
+  367  git push -u origin main
+  368  git add README.md
+  369  git commit -m "Added Why section, edited project setup"
+  370  git push -u origin main
+  371  git add ./mobileMoneyEstimator/fee.js 
+  372  git commit -m "Edit the comments in code"
+  373  git push -u origin main
+  374  git add ./index.html 
+  375  git commit -m "Add Comments line 12"
+  376  git push -u origin main
+  377  git clear
+  378  clear
+  379  git status
+  380  git add ./bodaFareCalculator/fare.html 
+  381  git commit -m "Add header content"
+  382  git add ./bodaFareCalculator/fare.js 
+  383  git commit -m "Edit the Comments"
+  384  git add ./chaiCalculator/chai.html 
+  385  git commit -m "Add header content"
+  386  git add ./chaiCalculator/chai.js 
+  387  git commit -m "Edit the Comments"
+  388  git add ./mobileMoneyEstimator/fee.js 
+  389  git commit -m "Edit the Comments"
+  390  git status
+  391  git push -u origin main
+  392  git status
+  393  exit
+  394  cd moring
+  395  cd moringa/
+  396  ls
+  397  cd jsclass/
+  398  ls
+  399  cd classwork/
+  400  ls
+  401  code .
+  402  exit
+  403  cd moringa
+  404  ls
+  405  cd jsclass/
+  406  lis
+  407  ls
+  408  cd classwork/
+  409  ls
+  410  touch object.html object.js
+  411  code .
+  412  clear
+  413  cd ..
+  414  cd Code-Challenge-1/
+  415  code .
+  416  cd ..
+  417  cd jsclass/classwork/
+  418  code .
+  419  cd ..
+  420  cd Code-Challenge-1/
+  421  code .
+  422  cd ..
+  423  cd jsclass/classwork/
+  424  code .
+  425  cd..
+  426  cd ..
+  427  ls
+  428  mkdir Code-Challenge-2
+  429  cd Code-Challenge-2
+  430  touch index.html index.js style.css
+  431  code .
+  432  cat ~/.bash_history
+  433  npm init
+  434  npm install tailwindcss @tailwindcss/cli
+  435  git init
+  436  git status
+  437  git add .
+  438  git status
+  439  git commit -m "This is the first commit"
+  440  git remote add origin git@github.com:edwin3v3/Code-Challenge-2.git
+  441  git branch -M main
+  442  git push -u origin main
+  443  cat ~/.bash_history
+  444  npx @tailwindcss/cli -i ./input.css -o ./output.css --watch
+  445  cd ..
+  446  cd jsclass/classwork/
+  447  code .
+  448  cd ..
+  449  cd Code-Challenge-2
+  450  npx @tailwindcss/cli -i ./input.css -o ./output.css --watch
+  451  git status
+  452  git add index.js
+  453  git commit -m "Added the printGuest functionality"
+  454  git add index.html
+  455  git commit -m "Added Tailwind Styling"
+  456  git branch -M main
+  457  git push -u origin main
+  458  git status
+  459  git add README.md 
+  460  git commit -m "Add screenshot on the README file"
+  461  git add --help
+  462  git add index.html --verbose
+  463  git commit -m "Modified Title of the Guestlist APP"
+  464  git add screenshot-guestlistApp.jpg 
+  465  git commit -m "Included screenshot file"
+  466  git add input.css output.css
+  467  git commit -m "Added Tailwind CSS Files"
+  468  git status
+  469  git branch -M main
+  470  git push -u origin main
+  471  json-server db.json
+  472  cd book-shelf-sdf-ft14/
+  473  json-server db.json
+  474  cd src/
+  475  json-server db.json
+  476  cd ..
+  477  npm init
+  478  cd moringa/
+  479  ls
+  480  cd jsc
+  481  cd jsclass/
+  482  ls
+  483  cd classwork/
+  484  code .
+  485  git clone git@github.com:lewys-miugo/npm-project-setup.git
+  486  ls
+  487  git clone git@github.com:dennis-kiboi/book-shelf-sdf-ft14.git
+  488  json-server db.json
+  489  code .
+  490  exit
+  491  cat ~/.bash_history
+  492  json-server db.json --watch
+  493  npm start
+  494  cd moringa
+  495  ls
+  496  cd Code-Challenge-Blog-Post-Manager/
+  497  code .
+  498  cd ..
+  499  mkdir json-servers
+  500  cd json-servers
+  501  code .
+  502  git init
+  503  git status
+  504  git add .
+  505  git commit -m "First Commit"
+  506  git remote add origin git@github.com:edwin3v3/json-servers.git
+  507  git branch -M main
+  508  git push -u origin main
+  509  npm install
+  510  git status
+  511  git add .gitignore package-lock.json 
+  512  git commit -m "Added package-lock.json"
+  513  git push -u origin main
+  514  cd ..
+  515  ls
+  516  cd jsclass/
+  517  ls
+  518  cd classwork/
+  519  ls
+  520  code .
+  521  cd ..
+  522  ls
+  523  cd json-servers/
+  524  code .
+  525  git status
+  526  git add package.json 
+  527  git commit -a "Use dynamic port"
+  528  git commit -m "Use dynamic port"
+  529  git push -u origin main
+  530  git status
+  531  git add package.json
+  532  git commit -m "Updated Scripts to run"
+  533  git push -u origin main
+  534  git status
+  535  git add db.json 
+  536  git commit -m "Added data to db.json"
+  537  git push -u origin main
+  538  git status
+  539  cd morin
+  540  cd moringa/
+  541  cd Code-Challenge-Blog-Post-Manager/
+  542  code .
+  543  cd ..
+  544  cd jsclass/classwork/
+  545  code .
+  546  cd ..
+  547  cd Code-Challenge-Blog-Post-Manager/
+  548  git status
+  549  git add .
+  550  git add src/index.js index.html db.json 
+  551  git commit -m "Added Edit functionality"
+  552  git push -u origin main
+  553  clear
+  554  cd ..
+  555  mkdir BWStore
+  556  rm -r BWStore/
+  557  ls
+  558  mkdir bwstore
+  559  cd bwstore
+  560  touch index.html  README.md ./src/index.js .gitignore ./css/output.css ./css/input.css
+  561  ls
+  562  touch .gitignore
+  563  mkdir css src
+  564  touch ./src/index.js ./css/output.css ./css/input.css
+  565  ls
+  566  code .
+  567  npm init
+  568  npm install tailwindcss @tailwindcss/cli
+  569  npx @tailwindcss/cli -i ./css/input.css -o ./css/output.css --watch
+  570  git init
+  571  git add .
+  572  git commit -m "First Commit"
+  573  cd ..
+  574  rm -r bwstore
+  575  mkdir ibstore
+  576  cd ibstore
+  577  touch index.html README.md .gitignore
+  578  ls
+  579  mkdir css src
+  580  touch ./src/index.js ./css/output.css ./css/input.css
+  581  npm init
+  582  code .
+  583  npm install tailwindcss @tailwindcss/cli
+  584  npx @tailwindcss/cli -i ./css/input.css -o ./css/output.css --watch
+  585  git status
+  586  git init
+  587  git status
+  588  git add .
+  589  git status
+  590  git commit -m "First Commit"
+  591  git remote add origin git@github.com:edwin3v3/ibstore.git
+  592  git branch -M main
+  593  git push -u origin main
+  594  cd ..
+  595  cd json-servers/
+  596  code .
+  597  cd ..
+  598  mkdir json-server2
+  599  cd json-server2
+  600  git clone git@github.com:edwin3v3/json-server2.git
+  601  ls
+  602  cd ..
+  603  rm -r json-server2
+  604  rm -r json-server2 -y
+  605  rm --help
+  606  rm -r json-server2 -f
+  607  ls
+  608  git clone git@github.com:edwin3v3/json-server2.git
+  609  ls
+  610  cd json-server2
+  611  code .
+  612  cd ..
+  613  cd Code-Challenge-Blog-Post-Manager/
+  614  git status
+  615  git add db.json index.html src/index.js 
+  616  git commit -m "Update: Storing fetch url in $baseurl variable"
+  617  git branch -M main
+  618  git push -u origin main
+  619  git status
+  620  git add src/index.js 
+  621  git commit -m "Changed server from local to live via render.com"
+  622  git push -u origin main
+  623  cd ..
+  624  cd jsclass/
+  625  ls
+  626  cd clas
+  627  cd classwork/
+  628  code .
+  629  cd ..
+  630  cd ibstore
+  631  ls
+  632  git status
+  633  git add .
+  634  git commit -m "Task Success: Loading items from public JSON API"
+  635  git push -u origin main
+  636  git status
+  637  git add README.md iBStore.jpg 
+  638  git commit -m "Updated the README.md and Added Screenshot"
+  639  git push -u origin main
+  640  git add README.md
+  641  git commit -m "Edited the README.md"
+  642  git push -u origin main
+  643  git status
+  644  git add index.html css/output.css 
+  645  git commit -m "Added Search - styled page header section"
+  646  git add src/index.js 
+  647  git commit -m "Added renderInitialProducts() using slice()"
+  648  git push -u origin main
+  649  git status
+  650  git add index.html src/index.js 
+  651  git commit -m "Added Search Feature"
+  652  git push -u origin main
+  653  git status
+  654  git add css/output.css index.html 
+  655  git commit -m "Added Filter Section to UI"
+  656  git push -u origin main
+  657  git status
+  658  git add src/index.js 
+  659  git commit -m "Added Javascript function for Filter"
+  660  git push -u origin main
+  661  git log --oneline path/to/your/file.js
+  662  git log --oneline
+  663  git add README.md
+  664  git commit -m "ADDED How to use & License"
+  665  git status
+  666  git add LICENSE 
+  667  git commit -m "ADDED an MIT Licence File"
+  668  git push -u origin main
+  669  git status
+  670  git add .
+  671  git add README.md iBStore-screenshot.jpg 
+  672  git commit -m "Updated Screenshot image & README.md"
+  673  git push -u origin main
+  674  git status
+  675  git add README.md 
+  676  git commit -m "Additional Editing the README"
+  677  git push -u origin main
+  678  git status
+  679  git add src/index.js 
+  680  git add 
+  681  git push -u origin main
+  682  git status
+  683  git add css/output.css 
+  684  git commit -m "Small Edit in Css"
+  685  git add src/index.js 
+  686  git commit -m "Added more explanation of Code"
+  687  git push -u origin main
+  688  json-server db.json --watch
+  689  npx @tailwindcss/cli -i ./css/input.css -o ./css/output.css --watch
+  690  node -v
+  691  cd moringa/phase2/reactApp1/
+  692  cd ..
+  693  ls
+  694  cd jsclass/
+  695  code .
+  696  cd ..
+  697  ls
+  698  cd Code-Challenge-Blog-Post-Manager/
+  699  code .
+  700  cd ..
+  701  cd phase2/
+  702  npm create vite@latest my-react-app -- --template react
+  703  cd my-react-app/
+  704  npm install
+  705  npm run dev
+  706  rm -rf node_modules .vite
+  707  npm install
+  708  npm run dev
+  709  npm run dev
+  710  cd moringa/
+  711  cd phase2/
+  712  ls
+  713  cd my-react-app/
+  714  code .
+  715  cd moringa/
+  716  ls
+  717  mkdir phase2
+  718  cd phase2
+  719  mkdir react
+  720  cd react
+  721  code .
+  722  cd ..
+  723  cd ibstore/
+  724  cd ..
+  725  cd react
+  726  ls
+  727  cd phase2/
+  728  ls
+  729  cd react
+  730  ls
+  731  node -v
+  732  cd ..
+  733  rm -r react
+  734  ls
+  735  npm create vite@latest reactApp --template react
+  736  ls
+  737  clear
+  738  npm --help
+  739  clear
+  740  npm create vite@latest reactApp1 --template react
+  741  ls
+  742  rm -r reactApp1/
+  743  ls
+  744  clear
+  745  npm create vite@latest reactApp1 -- --template react
+  746  cd reactApp1/
+  747  npm install
+  748  npm run dev
+  749  code .
+  750  cd ..
+  751  ls
+  752  cd Code-Challenge-2
+  753  code .
+  754  cd ..
+  755  cd phase2/reactApp1/
+  756  npm install tailwindcss @tailwindcss/cli
+  757  npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
+  758  npm run dev
+  759  npm run dev
+  760  npm run dev
+  761  cd API/
+  762  npm run dev
+  763  concurrently 'npx @tailwindcss/cli -i ./src/my_input.css -o ./src/tailwind_output.css --watch' 'npm run dev'
+  764  npx tailwindcss init
+  765  npx tailwindcss -help
+  766  npx tailwindcss --help
+  767  concurrently 'npx @tailwindcss/cli -i ./src/my_input.css -o ./src/tailwind_output.css --watch' 'npm run dev'
+  768  cd moringa/phase2/the-mission/
+  769  git status
+  770  git add .gitignore 
+  771  git commit -m "Added history of commands"
+  772  npm run dev
+  773  cd moringa
+  774  cd phase2/
+  775  ls
+  776  cd the-mission/
+  777  code .
+  778  history > latestListofCommands.txt
+  779  git status
+  780  git switch development
+  781  git branch edwin/dashboard
+  782  git switch edwin/dashboard
+  783  git add src/components/Dashboard.jsx 
+  784  git commit -m "Added the Dashboard UseEffect"
+  785  git add src/components/Dashboard.jsx 
+  786  git commit -m "Added the mission log panel"
+  787  git add src/components/Dashboard.jsx 
+  788  git commit -m "Included the mission status panel"
+  789  git add src/components/Dashboard.jsx 
+  790  git commit -m "Declared the intelligence panel"
+  791  git add src/components/Dashboard.jsx 
+  792  git commit -m "Added File panel"
+  793  git switch development 
+  794  clear
+  795  git branch edwin/missionlist
+  796  git switch edwin/missionlist 
+  797  git status
+  798  git add src/components/MissionList.jsx 
+  799  git commit -m "Added props to MissionList"
+  800  git status
+  801  git push origin edwin/missionlist 
+  802  git switch edwin/dashboard 
+  803  git push origin edwin/dashboard 
+  804  git status
+  805  git switch development 
+  806  git branch edwin/redirect
+  807  git switch edwin/redirect
+  808  git status
+  809  git add public/_redirects 
+  810  git commit -m "Added the redirect"
+  811  git push origin edwin/redirect 
+  812  git status
+  813  git branch edwin/run
+  814  git switch edwin/run
+  815  git pull origin development
+  816  npm run dev
+  817  git status
+  818  git branch
+  819  git branch edwin/develop
+  820  git switch edwin/develop
+  821  git pull origin edwin/develop
+  822  git pull origin development
+  823  git commit --help
+  824  python
+  825  python -v
+  826  ubuntu
+  827  version
+  828  help
+  829  pyenv
+  830  pyenv versions
+  831  pyenv version
+  832  lsb_release -a
+  833  code .bashrc
+  834  clear
+  835  curl https://pyenv.run | bash
+  836  exit
+  837  pyenv update
+  838  SHELL
+  839  echo $SHELL
+  840  code ~/.bashrc
+  841  pyenv update
+  842  clear
+  843  sudo apt update
+  844  sudo apt-get install -y build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python3-openssl git
+  845  clear
+  846  pyenv install 3.8.13
+  847  python --version
+  848  pyenv global 3.8.13
+  849  python --version
+  850  python3 --version
+  851  clear
+  852  pip --version
+  853  pip install --user pipenv
+  854  python -m site --user-base /home/edwin101/.local
+  855  python -m site --user-base
+  856  code ~/.bashrc
+  857  source export PATH="$HOME/.local/bin:$PATH"
+  858  source ~/.bashrc  
+  859  exit
+  860  /home/edwin101/.pyenv/versions/3.8.13/bin/python
+  861  python range.py
+  862  source ~/.bashrc
+  863  toggle_path
+  864  python range.py
+  865  toggle_path
+  866  clear
+  867  toggle_path
+  868  clear
+  869  source ~/.bashrc
+  870  toggle_path
+  871  ls
+  872  clear
+  873  python range.py
+  874  clear
+  875  python 1main.py
+  876  node 2index.js
+  877  clear
+  878  python 4flow-ifelse.py 
+  879  clear
+  880  python _1main.py
+  881  clear
+  882  node index.js
+  883  clear
+  884  node _2index.js
+  885  clear
+  886  python _1main.py
+  887  clear
+  888  node _2index.js
+  889  clear
+  890  cd _18loop
+  891  cd _18oop/
+  892  clear
+  893  python _1oop.py
+  894  clear
+  895  python _1oop.py
+  896  toggle_path
+  897  clear
+  898  python lib/a_name_error.py
+  899  toggle_path
+  900  python lib/app.py 
+  901  source /home/edwin101/.local/share/virtualenvs/python-p3-running-python-code-w7OBff5D/bin/activate
+  902  toggle_path
+  903  clear
+  904  python lib/a_name_error.py 
+  905  python an_assertion_error.py
+  906  python lib/an_assertion_error.py 
+  907  clear
+  908  python 
+  909  clear
+  910  python lib/a_name_error.py 
+  911  git status
+  912  git add lib/a_name_error.py 
+  913  clear
+  914  git commit "fixed error in name_error file"
+  915  git commit -m "fixed error in name_error file"
+  916  git push -u origin main
+  917  git status
+  918  clear
+  919  python lib/a_type_error.py 
+  920  python
+  921  clear
+  922  python lib/a_type_error.py 
+  923  python
+  924  clear
+  925  git status
+  926  git add lib/a_type_error.py 
+  927  git commit -m "Fixed line 3 error"
+  928  clear
+  929  git push -u origin main
+  930  clear
+  931  python lib/a_s
+  932  python lib/a_syntax_error.py 
+  933  clear
+  934  python lib/a_syntax_error.py 
+  935  git status
+  936  git add lib/a_syntax_error.py 
+  937  git commit -m "Fixed Syntax Error"
+  938  git push -u origin main
+  939  clear
+  940  python lib/an_assertion_error.py 
+  941  clear
+  942  git status
+  943  git add lib/an_assertion_error.py 
+  944  git commit -m "Fixed assertion error"
+  945  git push -u origin main
+  946  toggle_path 
+  947  python lib/app.py 
+  948  python --version
+  949  python lib/app.py 
+  950  clear
+  951  python lib/app.py 
+  952  toggle_path
+  953  clear
+  954  cd _18oop
+  955  python _3oop.py
+  956  clear
+  957  python _3oop.py
+  958  toggle_path
+  959  def test_app_py_exists():
+  960  pytest
+  961  pytest -x
+  962  pytest -- help
+  963  toggle_path
+  964  python lib/app.py
+  965  git status
+  966  git add lib/app.py
+  967  git commit -m "Added new print"
+  968  git push -u origin main
+  969  git status
+  970  clear
+  971  git status
+  972  git add lib/app.py
+  973  git commit -m "removed previous print"
+  974  git add lib/app2.py
+  975  git commit -m "Added more  prints"
+  976  git push -u origin main
+  977  git status
+  978  git push -u origin main
+  979  clear
+  980  python
+  981  git status
+  982  clear
+  983  git add lib/app.py 
+  984  git commit -m "Modified Print statement"
+  985  git push -u origin main
+  986  git status
+  987  clear
+  988  source /home/edwin101/.local/share/virtualenvs/python-p3-running-python-code-w7OBff5D/bin/activate
+  989  toggle_path
+  990  exit
+  991  source /home/edwin101/.local/share/virtualenvs/python-p3-running-python-code-w7OBff5D/bin/activate
+  992  exit() exit()
+  993  source /home/edwin101/.local/share/virtualenvs/python-p3-running-python-code-w7OBff5D/bin/activate
+  994  source /home/edwin101/.local/share/virtualenvs/python-p3-running-python-code-w7OBff5D/bin/activate
+  995  echo $VIRTUAL_ENV
+  996  quit
+  997  quit() exit
+  998  pipenv -venv
+  999  pipenv --venv
+ 1000  clear
+ 1001  source /home/edwin101/.local/share/virtualenvs/python-p3-running-python-code-w7OBff5D/bin/activate
+ 1002  grep -n 'pipenv shell' ~/.bashrc ~/.bash_profile ~/.profile 2>/dev/null
+ 1003  source ~/.bashrc
+ 1004  pipenv shell
+ 1005  clear
+ 1006  exit
+ 1007  source /home/edwin101/.local/share/virtualenvs/python-p3-running-python-code-w7OBff5D/bin/activate
+ 1008  exit
+ 1009  source /home/edwin101/.local/share/virtualenvs/python-p3-running-python-code-w7OBff5D/bin/activate
+ 1010  source ~/.bashrc
+ 1011  exit
+ 1012  source /home/edwin101/.local/share/virtualenvs/python-p3-running-python-code-w7OBff5D/bin/activate
+ 1013  source ~/.bashrc
+ 1014  source /home/edwin101/.local/share/virtualenvs/python-p3-running-python-code-w7OBff5D/bin/activate
+ 1015  nano ~/.bashrc
+ 1016  cat .env
+ 1017  cat .envrc
+ 1018  echo $PIPENV_ACTIVE
+ 1019  echo $PIPENV_SHELL
+ 1020  clear
+ 1021  exit
+ 1022  toggle_path
+ 1023  git status
+ 1024  git add lib/functions.py 
+ 1025  git commit -m "Edited greet_programmer function"
+ 1026  git push -u origin main
+ 1027  clear
+ 1028  git status
+ 1029  git add lib/functions.py 
+ 1030  git commit -m "Another Edit greet_programmer function"
+ 1031  git push -u origin main
+ 1032  clear
+ 1033  python
+ 1034  clear
+ 1035  python
+ 1036  clear
+ 1037  python
+ 1038  python lib/functions.py 
+ 1039  clear
+ 1040  git status
+ 1041  git add lib/functions.py 
+ 1042  git commit -m "Added to greet function"
+ 1043  git push -u origin main
+ 1044  clear
+ 1045  python lib/functions.py 
+ 1046  clear
+ 1047  git add lib/functions.py 
+ 1048  git commit -m "Edited to greet_with_default function"
+ 1049  git push -u origin main
+ 1050  clear
+ 1051  python lib/functions.py 
+ 1052  clear
+ 1053  git add lib/functions.py 
+ 1054  git commit -m "Edit to add function"
+ 1055  git push -u origin main
+ 1056  git status
+ 1057  clear
+ 1058  git status
+ 1059  clear
+ 1060  git status
+ 1061  git add lib/functions.py 
+ 1062  git commit -m "New add function"
+ 1063  git push -u origin main
+ 1064  clear
+ 1065  python lib/functions.py 
+ 1066  clear
+ 1067  git add lib/functions.py 
+ 1068  git commit -m "Edited halve function"
+ 1069  git push -u origin main
+ 1070  clear
+ 1071  git add .
+ 1072  git commit --allow-empty -m "nudge CodeGrade"
+ 1073  git push -u origin main
+ 1074  git push
+ 1075  clear
+ 1076  git add lib/functions.py 
+ 1077  git commit -m "Edited halve fload function"
+ 1078  git push
+ 1079  git push -u origin main
+ 1080  clear
+ 1081  python lib/functions.py 
+ 1082  clear
+ 1083  pipenv shell
+ 1084  toggle_path
+ 1085  clear
+ 1086  pipenv run
+ 1087  pipenv run -h
+ 1088  pipenv run --clear
+ 1089  clear
+ 1090  python lib/ipdb_is_awesome.py 
+ 1091  clear
+ 1092  python lib/ipdb_is_awesome.py 
+ 1093  clear
+ 1094  python lib/ipdb_is_awesome.py 
+ 1095  clear
+ 1096  python lib/ipdb_is_awesome.py 
+ 1097  cd moringa/phase3/python-p3-running-python-code/
+ 1098  toggle_path
+ 1099  code .
+ 1100  cd ..
+ 1101  ls
+ 1102  cd intro
+ 1103  code .
+ 1104  ls
+ 1105  cd ..
+ 1106  cd python-p3-running-python-code/
+ 1107  ls
+ 1108  pipenv --help
+ 1109  pipenv --venv
+ 1110  pipenv --venv  --envs
+ 1111  pipenv --envs
+ 1112  pipenv --version
+ 1113  pipenv shell
+ 1114  pipenv 
+ 1115  pipenv -h
+ 1116  clear
+ 1117  ls
+ 1118  toggle_path
+ 1119  clear
+ 1120  code .
+ 1121  ls
+ 1122  cd ..
+ 1123  ls
+ 1124  git clone git@github.com:edwin3v3/python-p3-functions.git
+ 1125  cd python-p3-functions/
+ 1126  ls
+ 1127  clear
+ 1128  ls
+ 1129  code .
+ 1130  toggle_path
+ 1131  cd ..
+ 1132  ls
+ 1133  git clone git@github.com:edwin3v3/python-p3-debugging-with-ipdb.git
+ 1134  cd python-p3-debugging-with-ipdb/
+ 1135  ls
+ 1136  code .
+ 1137  pipenv install ipdb
+ 1138  exit
+ 1139  cd moringa
+ 1140  cd phase3
+ 1141  ls
+ 1142  mkdrid oopgroup
+ 1143  mkdir oopgroup
+ 1144  cd oopgroup/
+ 1145  cd moringa/
+ 1146  cd phase3
+ 1147  ls
+ 1148  cd intro/
+ 1149  code .
+ 1150  cd cd \
+ 1151  cd _18oop/
+ 1152  python _4oop.py
+ 1153  sqlited3 intro.db < intro.sql
+ 1154  cd ..
+ 1155  cd databases/
+ 1156  sqlited3 intro.db < intro.sql
+ 1157  sqlite3 intro.db < intro.sql
+ 1158  sqlite3 intro.db < newuser.sql
+ 1159  clear
+ 1160  sqlite3 intro.db < allusers.sql
+ 1161  clear
+ 1162  sqlite3 intro.db < update.sql
+ 1163  sqlite3 intro.db < delete.sql
+ 1164  pipenv --venv
+ 1165  pipenv --rm
+ 1166  sudo apt update
+ 1167  sudo apt install sqlite
+ 1168  sudo apt install sqlite3
+ 1169  sqlite --version
+ 1170  sqlite3 --version
+ 1171  clear
+ 1172  cd moringa/phase3/intro/
+ 1173  clear
+ 1174  code .
+ 1175  pip install SQLAlchemy
+ 1176  pip show SQLAlchemy
+ 1177  ls
+ 1178  cd ..
+ 1179  ls
+ 1180  cd python-p3-running-python-code/
+ 1181  ls
+ 1182  cd ...
+ 1183  cd ..
+ 1184  cd intro
+ 1185  pip freeze > requirements.txt
+ 1186  cd ..
+ 1187  mkdir cliapp
+ 1188  cd cliapp
+ 1189  code .
+ 1190  cd ..
+ 1191  mkdir mycliapp
+ 1192  cd mycliapp'
+ 1193  cd mycliapp/
+ 1194  python3 -m venv venv
+ 1195  code .
+ 1196  . .venv/bin/activate
+ 1197  venv/bin/activate
+ 1198  pip install click
+ 1199  pipenv shell
+ 1200  cd ..
+ 1201  pip uninstall click
+ 1202  pipenv shell
+ 1203  ls
+ 1204  mkdir pycliapp
+ 1205  cd pycliapp/
+ 1206  python models.py
+ 1207  sqlalchemy __version__
+ 1208  sqlalchemy.__version__
+ 1209  sqlalchemy
+ 1210  python
+ 1211  alembic init
+ 1212  alembic init alembic
+ 1213  sudo apt install alembic
+ 1214  alembic init alembic
+ 1215  cd databases
+ 1216  clear
+ 1217  python a1.py
+ 1218  cd ..
+ 1219  cd sqlalchemy/
+ 1220  python a1.py
+ 1221  alembic init alembic
+ 1222  pip inspect
+ 1223  cd moringa/phase3
+ 1224  pip config
+ 1225  pip config list
+ 1226  pip config get
+ 1227  pip inspect
+ 1228  clear
+ 1229  cd intro/
+ 1230  code .
+ 1231  clear
+ 1232  history >> mycommands.txt
+ 1233  click --help
+ 1234  cd ..
+ 1235  ls
+ 1236  cd pycliapp
+ 1237  click --help
+ 1238  cd ..
+ 1239  cd mycliapp
+ 1240  click --help
+ 1241  cd ..
+ 1242  cd cliapp/
+ 1243  click
+ 1244  clear
+ 1245  cd ..
+ 1246  pip show click
+ 1247  pip show alembic
+ 1248  pic show sqlalchemy
+ 1249  pip show sqlalchemy
+ 1250  sqlite3 --version
+ 1251  deactivate
+ 1252  sudo pip unistall sqlalchemy
+ 1253  sudo pip3 unistall sqlalchemy
+ 1254  sudo unistall sqlalchemy
+ 1255  sudo uninstall sqlalchemy
+ 1256  sudo pip uninstall sqlalchemy
+ 1257  sudo apt uninstall sqlalchemy
+ 1258  pip show sqlalchemy
+ 1259  sudo pip uninstall sqlalchemy
+ 1260  sudo pip3 uninstall sqlalchemy
+ 1261  sudo apt remove python3-sqlalchemy
+ 1262  dpkg -l | grep sqlalchemy
+ 1263  clear
+ 1264  ls
+ 1265  mkdir d-wallet
+ 1266  cd d-wallet/
+ 1267  python3 -m venv venv
+ 1268  cd moringa/phase3/
+ 1269  ls
+ 1270  sqlalchemy --help
+ 1271  pip show sqlalchemy
+ 1272  piplist
+ 1273  pip list
+ 1274  pip --help
+ 1275  cd moringa/phase3/
+ 1276  cd d-wallet
+ 1277  venv
+ 1278  cd ..
+ 1279  rm -r d-wallet/
+ 1280  ls
+ 1281  mkdir dwallet
+ 1282  cd dwallet/
+ 1283  ls
+ 1284  clear
+ 1285  python3 -m venv venv
+ 1286  source venv/bin/activate
+ 1287  pip install sqlalchemy alembic click
+ 1288  pip install --upgraed pip
+ 1289  pip install --upgrade pip
+ 1290  pip list
+ 1291  code .
+ 1292  pip freeze requirements.txt
+ 1293  pip freeze > requirements.txt
+ 1294  pip install --upgrade sqlalchemy alembic click
+ 1295  clear
+ 1296  toggle_path
+ 1297  exit
+ 1298  cd moringa/phase3/dwallet/
+ 1299  source venv/bin/activate
+ 1300  which python
+ 1301  clear
+ 1302  /home/edwin101/moringa/phase3/dwallet/venv/bin/python
+ 1303  wallet = relationshipt('transactions', back_populates = 'wallet')
+ 1304  clear
+ 1305  source venv/bin/activate
+ 1306  python models.py
+ 1307  clear
+ 1308  python models.py
+ 1309  history > historyOfCommands.tex
